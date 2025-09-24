@@ -30,6 +30,6 @@ int main()
         // Edit this line to output the target position
         // and thrust (0 <= thrust <= 100)
         // i.e.: "x y thrust"
-        cout << next_checkpoint_x << " " << next_checkpoint_y << " 50" << endl;
+        cout << next_checkpoint_x << " " << next_checkpoint_y << " 100" << endl;
     }
 }
